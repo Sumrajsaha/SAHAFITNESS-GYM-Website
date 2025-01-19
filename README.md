@@ -17,7 +17,7 @@ This repository contains the source code for a gym website, implemented as a sin
 
 ### Installation
 To run the gym website locally as a single page application, follow these steps:
-- Clone this repository: git clone `https://github.com/`
+- Clone this repository: git clone `https://github.com/Sumrajsaha/SAHAFITNESS-GYM-Website`
 - Navigate to the project directory: cd GymWebsite
 - Open the index.html file in your web browser.
 
@@ -41,11 +41,8 @@ Feel free to customize the code and design to align with your gym's unique ident
 
 If you find any issues with the website or have suggestions for improvement, please feel free to submit a pull request or open an issue in this repository. Your contributions are welcome!
 
-### License
 
-This gym website is available under the [MIT License](https://github.com/mian-ali/GymWebsite/blob/main/LICENCE.md).
-
-### Project Live URI:  [Live Demo](https://mian)
+### Project Live URI:  [Live Demo](https://github.com/Sumrajsaha/SAHAFITNESS-GYM-Website)
 
 
 
